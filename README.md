@@ -26,7 +26,7 @@ This project uses the power of artificial intelligence to generate complete book
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install EbookLib
    ```
 
 3. **Set up API keys:** 
